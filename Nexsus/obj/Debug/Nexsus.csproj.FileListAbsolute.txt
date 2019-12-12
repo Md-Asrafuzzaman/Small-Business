@@ -1,0 +1,197 @@
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.dll.config
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.pdb
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\obj\Debug\Nexsus.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\obj\Debug\Nexsus.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\obj\Debug\Nexsus.pdb
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.BLL.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.Repository.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.dll
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.BLL.pdb
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.Repository.pdb
+c:\users\user\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\AutoMapper.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.ValueTuple.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\AutoMapper.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\AutoMapper.xml
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\ApplicationInsights.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.Web.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.BLL.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.Model.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.Repository.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.BLL.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.Model.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.Web.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.Repository.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\bin\Nexsus.Repository.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\obj\Debug\Nexsus.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\obj\Debug\Nexsus.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\obj\Debug\Nexsus.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\obj\Debug\Nexsus.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus\obj\Debug\Nexsus.pdb
+E:\New folder\Nexsus\Nexsus\bin\ApplicationInsights.config
+E:\New folder\Nexsus\Nexsus\bin\roslyn\csc.exe
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\Nexsus\Nexsus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\Nexsus\Nexsus\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\Nexsus\Nexsus\bin\roslyn\vbc.exe
+E:\New folder\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe
+E:\New folder\Nexsus\Nexsus\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.dll.config
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.pdb
+E:\New folder\Nexsus\Nexsus\bin\AutoMapper.dll
+E:\New folder\Nexsus\Nexsus\bin\EntityFramework.dll
+E:\New folder\Nexsus\Nexsus\bin\EntityFramework.SqlServer.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.Agent.Intercept.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.Web.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.BLL.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.Model.dll
+E:\New folder\Nexsus\Nexsus\bin\System.ValueTuple.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Helpers.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Mvc.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Razor.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.dll
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.Repository.dll
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.BLL.pdb
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.pdb
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.DatabaseContext.dll.config
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus\bin\AutoMapper.pdb
+E:\New folder\Nexsus\Nexsus\bin\AutoMapper.xml
+E:\New folder\Nexsus\Nexsus\bin\EntityFramework.xml
+E:\New folder\Nexsus\Nexsus\bin\EntityFramework.SqlServer.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.DependencyCollector.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.Web.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.AI.WindowsServer.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.ApplicationInsights.xml
+E:\New folder\Nexsus\Nexsus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\Nexsus\Nexsus\bin\System.ValueTuple.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Razor.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.Deployment.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Webpages.Razor.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Helpers.xml
+E:\New folder\Nexsus\Nexsus\bin\System.Web.Mvc.xml
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.Repository.pdb
+E:\New folder\Nexsus\Nexsus\bin\Nexsus.Repository.dll.config
+E:\New folder\Nexsus\Nexsus\obj\Debug\Nexsus.csprojAssemblyReference.cache
+E:\New folder\Nexsus\Nexsus\obj\Debug\Nexsus.csproj.CoreCompileInputs.cache
+E:\New folder\Nexsus\Nexsus\obj\Debug\Nexsus.csproj.CopyComplete
+E:\New folder\Nexsus\Nexsus\obj\Debug\Nexsus.dll
+E:\New folder\Nexsus\Nexsus\obj\Debug\Nexsus.pdb

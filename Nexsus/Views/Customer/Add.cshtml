@@ -1,0 +1,149 @@
+﻿@model Nexsus.Models.CustomerViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+
+<html>
+<head>
+    <title>Add Customer</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <center>
+        <h2>Customer Entry</h2>
+    </center>
+    <div>
+        <div class="container">
+
+
+            <h2><button type="button" class="btn btn-primary btn-lg" onclick="window.location.href = ('@Url.Action("Search", "Supplier")')">Customer Search</button></h2>
+
+
+            <form method="post">
+                <div class="jumbotron">
+
+                    <div class="form-group">
+
+                        <input type="text" name="Code" value="@Model.Code" class="form-control" placeholder="Write Code" />
+
+                        @Html.ValidationMessageFor(c => c.Code)
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Write Name" />
+
+                        @Html.ValidationMessageFor(c => c.Name)
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="Address" value="@Model.Address" class="form-control" placeholder="Write Address" />
+
+                        @Html.ValidationMessageFor(c => c.Address)
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="Email" name="Email" value="@Model.Email" class="form-control" placeholder="Write Email" />
+
+                        @Html.ValidationMessageFor(c => c.Email)
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="Contact" value="@Model.Contact" class="form-control" placeholder="Write Contact Number" />
+
+                        @Html.ValidationMessageFor(c => c.Contact)
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="LoyalityPoint" value="@Model.LoyalityPoint" class="form-control" placeholder="Write Contact Person  Name" />
+
+                        @Html.ValidationMessageFor(c => c.LoyalityPoint)
+
+                    </div>
+
+
+                    @*<button type="button" class="btn btn-info btn-lg btn-block">Entry</button>*@
+                    <div class="container">
+                        <button type="submit" class="btn btn-success">Entry</button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+
+    </div>
+    @if (ViewBag.Message != null)
+    {
+        <h3>
+            <b>
+                @ViewBag.Message
+            </b>
+        </h3>
+    }
+
+    @*@{
+            Html.RenderPartial("~/Views/Shared/Supplier/_SupplierDetails.cshtml", Model);
+        }*@
+    <div class="container">
+        <h2>Records</h2>
+
+        <table class="table">
+            <thead>
+                <tr class="info">
+                    <th>SL</th>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Contact Number</th>
+                    <th>Loyality Point</th>
+                    <th> Action </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @{ int i = 1;}
+                @foreach (var supplier in Model.Customers)
+                {
+                    <tr class="active">
+                        <td>@(i++)</td>
+                        <td>@supplier.Code</td>
+                        <td>@supplier.Name</td>
+                        <td>@supplier.Address</td>
+                        <td>@supplier.Email</td>
+                        <td>@supplier.Contact</td>
+                        <td>@supplier.LoyalityPoint</td>
+
+                        @*<td>@Html.ActionLink("Edit", "Edit", "Category", new { Id = category.Id }, null)</td>*@
+                        <td>
+                            <h2>
+                                <button type="button" class="btn btn-success" onclick="window.location.href = ('@Url.Action("Edit", "Supplier", new {Id = supplier.Id} )')">Edit</button>
+                            </h2>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+
+        </table>
+    </div>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

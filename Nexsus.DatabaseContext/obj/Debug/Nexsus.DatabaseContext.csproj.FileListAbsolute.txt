@@ -1,0 +1,50 @@
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll.config
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.xml
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csprojResolveAssemblyReference.cache
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.DatabaseAdd.resources
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.AddTable.resources
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.DatabaseAdd.resources
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.AddTable.resources
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.ProductTableAdd.resources
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations._as.resources
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll.config
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.dll
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.DatabaseContext.pdb
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.dll
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\New folder\Nexsus\Nexsus.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csprojAssemblyReference.cache
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.CopyComplete
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.dll
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.pdb
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.Migrations.Initial.resources
+E:\New folder\Nexsus\Nexsus.DatabaseContext\obj\Debug\Nexsus.DatabaseContext.csproj.GenerateResource.cache

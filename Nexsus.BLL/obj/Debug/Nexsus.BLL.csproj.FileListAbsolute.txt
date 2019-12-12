@@ -1,0 +1,47 @@
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.xml
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csprojResolveAssemblyReference.cache
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.pdb
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.dll
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.BLL.pdb
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.dll
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.dll
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.dll
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.dll
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.pdb
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.Repository.dll.config
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.pdb
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\Nexsus.DatabaseContext.dll.config
+E:\New folder\Nexsus\Nexsus.BLL\bin\Debug\EntityFramework.xml
+E:\New folder\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csprojAssemblyReference.cache
+E:\New folder\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csproj.CoreCompileInputs.cache
+E:\New folder\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.csproj.CopyComplete
+E:\New folder\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.dll
+E:\New folder\Nexsus\Nexsus.BLL\obj\Debug\Nexsus.BLL.pdb

@@ -1,0 +1,48 @@
+﻿@model Nexsus.Models.CategoryViewModel
+
+<head>
+    <title>Add Category</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+
+
+
+    <div class="container">
+        <h2>Records</h2>
+
+        <table class="table">
+            <thead>
+                <tr class="info">
+                    <th>SL</th>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th> Action </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @{ int i = 1;}
+                @foreach (var category in Model.Categorys)
+                {
+                    <tr class="active">
+                        <td>@(i++)</td>
+                        <td>@category.Code</td>
+                        <td>@category.Name</td>
+                        @*<td>@Html.ActionLink("Edit", "Edit", "Category", new { Id = category.Id }, null)</td>*@
+                        <td>
+                            <h2>
+                                <button type="button" class="btn btn-success" onclick="window.location.href = ('@Url.Action("Edit", "Category", new {Id = category.Id} )')">Edit</button></h2></td>
+                        </tr>
+
+                }
+
+            </tbody>
+
+        </table>
+    </div>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>

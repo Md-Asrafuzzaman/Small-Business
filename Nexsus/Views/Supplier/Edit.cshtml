@@ -1,0 +1,97 @@
+﻿@model Nexsus.Models.SupplierViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <title>Edit Supplier</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <center>
+        <h2>Edit Category</h2>
+    </center>
+    <div>
+        <div class="container">
+
+            @*<h2><button type="button" class="btn btn-primary btn-lg" onclick="window.location.href = ('@Url.Action("Add", "Category")')">Category Entry</button></h2>*@
+            <h2><button type="button" class="btn btn-primary btn-lg" onclick="window.location.href = ('@Url.Action("Search", "Category")')">Supplier Search</button></h2>
+
+
+            <form method="post">
+                <div class="jumbotron">
+
+                    <div class="form-group">
+
+                        <input type="text" name="Code" value="@Model.Code" class="form-control" placeholder="Write Code" />
+
+                        @Html.ValidationMessageFor(c => c.Code)
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Write Name" />
+
+                        @Html.ValidationMessageFor(c => c.Name)
+
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="text" name="Address" value="@Model.Address" class="form-control" placeholder="Write Address" />
+
+                        @Html.ValidationMessageFor(c => c.Address)
+
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="Email" value="@Model.Email" class="form-control" placeholder="Write Email" />
+
+                        @Html.ValidationMessageFor(c => c.Email)
+
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="text" name="Contact" value="@Model.Contact" class="form-control" placeholder="Write Contact" />
+
+                        @Html.ValidationMessageFor(c => c.Contact)
+
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="text" name="ContactPerson" value="@Model.ContactPerson" class="form-control" placeholder="Write ContactPerson" />
+
+                        @Html.ValidationMessageFor(c => c.ContactPerson)
+
+                    </div>
+
+
+                    @*<button type="button" class="btn btn-info btn-lg btn-block">Entry</button>*@
+                    <div class="container">
+                        <button type="submit" class="btn btn-success">Entry</button>
+                    </div>
+
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+    @if (ViewBag.Message != null)
+    {
+        <h3>
+            <b>
+                @ViewBag.Message
+            </b>
+        </h3>
+    }
+</body>
+
+</html>

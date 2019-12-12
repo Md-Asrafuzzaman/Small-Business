@@ -1,0 +1,129 @@
+﻿@model Nexsus.Models.ProductViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+
+<html>
+<head>
+    <title>Add Product</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <center>
+        <h2>Product Entry</h2>
+    </center>
+    <div>
+        <div class="container">
+
+
+            @*<h2><button type="button" class="btn btn-primary btn-lg" onclick="window.location.href = ('@Url.Action("Search", "Product")')">Product Search</button></h2>*@
+
+
+            <form method="post">
+                <div class="jumbotron">
+
+                    <div class="form-group">
+                        @Html.DropDownListFor(c => c.CategoryId, Model.SelectCategory, "Select" )
+                        @*<input type="" name="SelectCategory" value="@Model.SelectCategory" class="form-control" placeholder="Write SelectCategory" />*@
+
+                        @Html.ValidationMessageFor(c => c.SelectCategory)
+                    </div>
+
+                    <div class="form-group">
+
+                        <input type="text" name="Code" value="@Model.Code" class="form-control" placeholder="Write Code"/>
+
+                        @Html.ValidationMessageFor(c => c.Code)
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Write Name"/>
+
+                        @Html.ValidationMessageFor(c => c.Name)
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" name="RecordedLevel" value="@Model.RecordedLevel" class="form-control" placeholder="Write RecordedLevel"/>
+
+                        @Html.ValidationMessageFor(c => c.RecordedLevel)
+
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="Description" value="@Model.Description" class="form-control" placeholder="Write Description"/>
+
+                        @Html.ValidationMessageFor(c => c.Description)
+
+                    </div>
+
+                    @*<button type="button" class="btn btn-info btn-lg btn-block">Entry</button>*@
+                    <div class="container">
+                        <button type="submit" class="btn btn-success">Entry</button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+
+    </div>
+    @if (ViewBag.Message != null)
+    {
+        <h3>
+            <b>
+                @ViewBag.Message
+            </b>
+        </h3>
+    }
+
+<div class="container">
+    <h2>Records</h2>
+
+    <table class="table">
+        <thead>
+        <tr class="info">
+            <th>SL</th>
+            <th>Category</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>RecordedLevel</th>
+            <th>Description</th>
+            <th> Action </th>
+        </tr>
+        </thead>
+        <tbody>
+
+        @{ int i = 1;}
+        @foreach (var product in Model.Products)
+        {
+            <tr class="active">
+                <td>@(i++)</td>
+                <td>@product.CategoryId</td>
+                <td>@product.Code</td>
+                <td>@product.Name</td>
+                <td>@product.RecordedLevel</td>
+                <td>@product.Description</td>
+                @*<td>@Html.ActionLink("Edit", "Edit", "Category", new { Id = category.Id }, null)</td>*@
+                <td>
+                   <h2>
+                        <button type="button" class="btn btn-success" onclick="window.location.href = ('@Url.Action("Edit", "Product", new {Id = product.Id} )')">Edit</button></h2></td>
+            </tr>
+
+        }
+
+        </tbody>
+
+    </table>
+</div>
+
+</body>
+
+</html>

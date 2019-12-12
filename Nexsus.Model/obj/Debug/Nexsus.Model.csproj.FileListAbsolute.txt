@@ -1,0 +1,16 @@
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.dll
+c:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.pdb
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.dll
+C:\Users\Web App Develop .Net\Documents\Small-Business-Management-System\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.dll
+E:\New folder\Nexsus\Nexsus.Model\bin\Debug\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.csproj.CoreCompileInputs.cache
+E:\New folder\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.dll
+E:\New folder\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.pdb
+E:\New folder\Nexsus\Nexsus.Model\obj\Debug\Nexsus.Model.csprojAssemblyReference.cache
